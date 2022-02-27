@@ -1,4 +1,5 @@
 # VNC FIXER FOR UBUNTU
+- FIXED some varius bugs(small ones that I found)
 - FIXING SERVER ERRORS 
 - INSTALLING REQ
 - FIXING MISSING FILES
